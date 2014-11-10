@@ -13,4 +13,4 @@ And now you can generate novels to your heart's content using sort. Try whatever
 
 `sort -uR > novel`
 
-I'm sure all of this could be done more cleanly, but eh. It works :D
+See https://github.com/dariusk/NaNoGenMo-2014/ for an explanation of NaNoGenMo.
